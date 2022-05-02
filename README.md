@@ -24,12 +24,6 @@
  
 <div> 
 
- 
- 
-
   <a href = "mailto:alexkrypta1@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/alex-francisco-de-jesus-62713b146/" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/alexdevll/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/alex-francisco-de-jesus-62713b146/></a> 
 </div>
