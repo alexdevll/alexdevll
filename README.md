@@ -24,6 +24,5 @@
  
 <div> 
 
-  <a href = "mailto:alexkrypta1@gmail.com"></a>
-  <a href="https://www.linkedin.com/in/alex-francisco-de-jesus-62713b146/></a> 
+  <a href = "mailto:alexkrypta1@gmail.com""https://www.linkedin.com/in/alex-francisco-de-jesus-62713b146/></a> 
 </div>
