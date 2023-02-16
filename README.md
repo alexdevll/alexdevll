@@ -1,2 +1,2 @@
-## Olá!! Sou o Alex,futuro desenvolvedor...
-- 🌱 I’m currently learning HTML,CSS,JS,Java,Kotln
+## Olá!! Sou o Alex,futuro Dev.
+- 🌱 I’m currently learning Java
